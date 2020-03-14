@@ -1,0 +1,6 @@
+Purpose: Store the notes and projects from this book. 
+
+Parts:
+1. The Basics
+2. Graph Algorithm and Data Structures
+3. Greedy Algorithms and Dynamic Programming 
